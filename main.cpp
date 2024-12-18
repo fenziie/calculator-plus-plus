@@ -7,7 +7,7 @@ int main() {
     double answer1;  // Used for division, as division can be a floating-point result
     long answer2, answer3, answer4;
 
-    std::cout << "######### calculator++ #########" << std::endl; // Top header, makes it look cool lol
+    std::cout << "############# calculator++ #############" << std::endl; // Top header, makes it look cool lol
     std::cout << "Welcome to Calculator++, a calculator program written in C++." << std::endl << std::endl;
 
     std::cout << "Enter your first integer: ";
@@ -55,6 +55,6 @@ int main() {
         std::cout << "Result: " << answer4 << std::endl;
     }
 
-    std::cout << "################################" << std::endl; // Bottom header, makes it look cool lol
+    std::cout << "########################################" << std::endl; // Bottom header, makes it look cool lol
     return 0;
 }
